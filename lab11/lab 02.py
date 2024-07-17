@@ -1,0 +1,12 @@
+squares=[1,4,9,16,25]
+print(squares)
+#mylist=["shubham",True,12.34,56]
+#print(mylist.sort())
+p=squares
+print(p)
+p2=squares.copy()
+print(p2)
+squares[2]=90
+print(squares)
+print(p)
+print(p2)
